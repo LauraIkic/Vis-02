@@ -1,0 +1,3 @@
+/Users/lauraikic/CLionProjects/VIS-02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lauraikic/CLionProjects/VIS-02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lauraikic/CLionProjects/VIS-02/cmake-build-debug/CMakeFiles/VIS_02.dir
